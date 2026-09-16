@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**foproa/foproa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Danya Koptelov 👋
 
-Here are some ideas to get you started:
+**Data Analyst** with a degree in **Applied Mathematics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience with EDA, ML model training, RFM and cohort analysis, and A/B testing. I enjoy turning raw data into clear, actionable insights and am open to Data Analyst opportunities.
+
+---
+
+## 🛠 Tools & Tech
+
+- **SQL:** PostgreSQL, DuckDB, DBeaver.
+- **Python:** pandas, NumPy, scikit-learn, statsmodels, Matplotlib, Seaborn.
+- **Power BI:** dashboards, Power Query, DAX.
+- **Excel:** pivot tables, VLOOKUP, dashboards.
+
+---
+
+## 🎬 A Bit More About Me
+
+- 🎥 My favorite movie is Interstellar.
+- 📚 My favorite books are The Hitchhiker's Guide to the Galaxy and The Trial.
+- 🩺 My favorite series is House M.D.
+- ✨ I strive for simplicity and usefulness.
