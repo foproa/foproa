@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Danya Koptelov 👋
+# Hi, I'm Danya Koptelov 👋
 
 **Data Analyst** with a degree in **Applied Mathematics**.
 
@@ -17,7 +15,7 @@ I have hands-on experience with EDA, ML model training, RFM and cohort analysis,
 
 ---
 
-## 🎬 A Bit More About Me
+## ☕ A Bit More About Me
 
 - 🎥 My favorite movie is Interstellar.
 - 📚 My favorite books are The Hitchhiker's Guide to the Galaxy and The Trial.
