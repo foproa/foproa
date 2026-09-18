@@ -1,3 +1,31 @@
+# Привет, я Даня Коптелов 👋
+
+**Аналитик данных** с высшим образованием по направлению «Прикладная математика».
+
+Есть практический опыт: EDA, обучение ML-моделей, RFM и cohort-анализ, A/B-тестирование, разработка дашбордов. Открыт к вакансиям Data Analyst.
+
+---
+
+## 🛠 Инструменты и технологии
+
+- **SQL:** PostgreSQL, DuckDB, DBeaver.
+- **Python:** pandas, NumPy, scikit-learn, statsmodels, Matplotlib, Seaborn.
+- **Power BI:** дашборды, Power Query, DAX.
+- **Excel:** сводные таблицы, VLOOKUP, дашборды.
+
+---
+
+## 👤 Немного обо мне
+
+- 🎥 Любимый фильм — «Интерстеллар».
+- 📚 Любимые книги — «Автостопом по Галактике» и «Процесс».
+- 🩺 Любимый сериал — «Доктор Хаус».
+- ✨ Стремлюсь к простоте и пользе.
+
+---
+
+<details>
+<summary>🇬🇧 English version</summary>
 # Hi, I'm Danya Koptelov 👋
 
 **Data Analyst** with a degree in **Applied Mathematics**.
