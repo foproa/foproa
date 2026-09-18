@@ -26,6 +26,7 @@
 
 <details>
 <summary>🇬🇧 English version</summary>
+  
 # Hi, I'm Danya Koptelov 👋
 
 **Data Analyst** with a degree in **Applied Mathematics**.
